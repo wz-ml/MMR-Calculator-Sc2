@@ -1,5 +1,6 @@
 # MMR-Calculator-Sc2
-At the request of my friends, I made a SC2 MMR calculator. Can calculate win probabilities, MMR placements, and Best-of-ns.
+![](https://github.com/wz-ml/SC2MMR-React/blob/gh-pages/logo.PNG?raw=true)
+At my friends' request, I made a SC2 MMR calculator. Can calculate win probabilities, MMR placements, and Best-of-ns.
 
 This project was built with React, and hosted with [React-GH-Pages](
   https://github.com/gitname/react-gh-pages
